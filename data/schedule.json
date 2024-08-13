@@ -1,0 +1,19 @@
+{
+    "name": "My Schedule",
+    "tasks": [
+        {
+            "timeSlot": "Mon 13:00-15:00, Wed 07:00-09:20",
+            "description": "1",
+            "title": "1",
+            "priority": 1,
+            "category": "1"
+        },
+        {
+            "timeSlot": "Mon 13:00-15:00, Wed 07:00-09:20",
+            "description": "2",
+            "title": "2",
+            "priority": 2,
+            "category": "2"
+        }
+    ]
+}
